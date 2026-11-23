@@ -1,0 +1,15 @@
+{
+  "name": "custom-node-cli",
+  "version": "1.0.0",
+  "description": "custom node cli",
+  "license": "ISC",
+  "author": "jeff yankson",
+  "type": "commonjs",
+  "main": "index.js",
+  "bin": {
+    "note": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
